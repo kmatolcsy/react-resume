@@ -1,0 +1,162 @@
+{
+    "experience": [
+        {
+            "id": 1,
+            "title": "Quantitative Risk Analyst",
+            "subtitle": "ING Bank, Model Risk Management",
+            "from": 2017,
+            "to": 2019,
+            "at": "Amsterdam",
+            "summary": "Responsible for carrying out project-based independent assessment of market risk and  counterparty credit risk models in line with the relevant regulatory standards, notably:",
+            "bullets": [
+                "Assess the model's conceptual soundness and identify areas for improvement",
+                "Challenge the model assumptions, mathematical formulation, and implementation",
+                "Manage interaction with stakeholders (model developers, business owners and audit)",
+                "Contribute to the team's governing policy, Python code base and automation efforts"
+
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Customer Insight Analyst Intern",
+            "subtitle": "CIB Bank, Customer Relationship Management",
+            "from": 2014,
+            "to": 2015,
+            "at": "Budapest",
+            "summary": "Applying statistical tools on customer, transactional and behavioural data to:",
+            "bullets": [
+                "Provide recommendations and customer segmentation for marketing campaigns", 
+                "Analyse results of marketing campaigns and other sales activities",
+                "Support business decisions and identify business opportunities"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 3,
+            "title": "Exchange Student, Econometrics",
+            "subtitle": "Unversity of Groningen",
+            "from": 2017,
+            "to": 2017,
+            "at": "Groningen",
+            "summary": "Challenged myself in studying courses in Asset Pricing, Econometrics, Game Theory and Business Ethics from a different perspective and in different format than in my home university. Improved team working skills by regularly working in groups with local and other exchange students on academic assignments, gave presentations to international student audience.",
+            "bullets": []
+        },
+        {
+            "id": 4,
+            "title": "MSc, Actuarial and Financial Mathematics",
+            "subtitle": "Corvinus Unversity of Budapest & Eötvös Lóránd University",
+            "from": 2015,
+            "to": 2018,
+            "at": "Budapest",
+            "bullets": [
+                "Major in Quantitative Finance",
+                "Awarded with the Advanced Scholarship of the Hungarian National Bank",
+                "Teaching Assistant at the Department of Finance for two terms and at the Department of Probability and Statistics for one term",
+                "Took additional courses in Asset Pricing, Econometrics and Game Theory at University of Groningen as part of an exchange program"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "BSc, Mathematics",
+            "subtitle": "University of Debrecen",
+            "from": 2011,
+            "to": 2014,
+            "at": "Debrecen",
+            "bullets": [
+                "Major in Applied and Business Mathematics",
+                "Awarded with the Advanced Scholarship of the Faculty of Science and Technology",
+                "Teaching Assistant at the Department of Analysis for two terms"
+            ]
+        }
+    ],
+    "extracurricular": [
+        {
+            "id": 6,
+            "title": "Teaching Assisstant",
+            "subtitle": "Eötvös Lóránd University, Department of Probability and Statistics",
+            "from": 2016,
+            "to": 2017,
+            "at": "Budapest",
+            "bullets": ["Prepared for and led weekly Probability Theory and Statistics seminar for 26 students, prepared and graded exams throughout the seminar, and assisted the department in the administration."]
+        },
+        {
+            "id": 7,
+            "title": "Teaching Assisstant",
+            "subtitle": "Corvinus University of Budapest, Department of Finance",
+            "from": 2016,
+            "to": 2017,
+            "at": "Budapest",
+            "bullets": ["Co-led weekly exam preparation workshops for 30+ students in Investments.", "Assisted the department in the grading of assignments."]
+        },
+        {
+            "id": 8,
+            "title": "Teaching Assisstant",
+            "subtitle": "University of Debrecen, Department of Analysis",
+            "from": 2013,
+            "to": 2014,
+            "at": "Debrecen",
+            "bullets": ["Prepared for and led two weekly Calculus seminars for classes of 27 and 19 students, prepared and graded exams throughout each seminars, and assisted the department in administration.", "Substitute teacher in Calculus II. and Introduction to Analysis."]
+        }
+    ],
+    "certifications": [
+        {
+            "id": 9,
+            "title": "Scientific Computing and Python for Data Science",
+            "subtitle": "WorldQuant University",
+            "to": 2019,
+            "summary": ""
+        },
+        {
+            "id": 10,
+            "title": "Expert in Official Statistics",
+            "subtitle": "University of Sopron",
+            "to": 2016,
+            "summary": ""
+        }
+    ],
+    "awards": [
+        {
+            "id": 11,
+            "title": "Derivatives Modelling Laboratory",
+            "subtitle": "",
+            "to": 2017,
+            "summary": "Won 3rd place in a national derivative pricing contest sponsored by i.a. MSCI and Morgan Stanley. The topic was pricing and hedging several types of equity and FX derivatives."
+        },
+        {
+            "id": 12,
+            "title": "Derivatives Modelling Laboratory",
+            "subtitle": "",
+            "to": 2016,
+            "summary": "Won 2nd place in a national derivative pricing contest sponsored by i.a. MSCI and Morgan Stanley. The topic was pricing convertible bonds and CoCo bonds."
+        }
+    ],
+    "skills": [
+        {
+            "id": 13,
+            "title": "Core competencies",
+            "subtitle": "",
+            "summary": "",
+            "bullets": [
+                {"type": "Python", "level": 85},
+                {"type": "JavaScript", "level": 65},
+                {"type": "HTML+CSS", "level": 60},
+                {"type": "SQL", "level": 50},
+                {"type": "Git", "level": 40}
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Frameworks",
+            "subtitle": "",
+            "summary": "",
+            "bullets": [
+                {"type": "Numpy", "level": 80},
+                {"type": "Pandas", "level": 80},
+                {"type": "Flask", "level": 65},
+                {"type": "scikit-learn", "level": 50},
+                {"type": "ReactJS", "level": 50}
+            ]
+        }
+    ]
+}
