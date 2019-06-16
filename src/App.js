@@ -26,9 +26,9 @@ class App extends React.Component {
     return (
       <div className="App container-fluid">
         <div className="row">
-          <div className="col col-md-2"><Timeline sections={data.default} activeId={this.state.activeId}/></div>
+          <div className="col col-md-2 sidebars"><Timeline sections={data.default} activeId={this.state.activeId}/></div>
           <div className="col col-md-8"><Resume sections={data.default} handleEnter={this.handleEnter} handleLeave={this.handleLeave}/></div>
-          <div className="col col-md-2"><Sidebar sections={data.default}/></div>
+          <div className="col col-md-2 sidebars"><Sidebar sections={data.default}/></div>
         </div>
       </div>
     )

@@ -3,11 +3,18 @@ import SkillBar from 'react-skillbars'
 
 class Entry extends React.Component {
     render() {
+        const colors = {
+            "bar": "lightgray",
+            "title": {
+                "text": "#fff",
+                "background": "#343a40"
+            }
+        }
         return (
             <div className="row align-items-end entry">
                 <div className="col col-md-12">
                     <h3 style={{marginBottom: '1rem'}}>{this.props.content.title}</h3>
-                    <SkillBar skills={this.props.content.bullets} />
+                    <SkillBar skills={this.props.content.bullets} colors={colors}/>
                 </div>
             </div>
         )
